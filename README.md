@@ -3,8 +3,8 @@
 An Om and Datomic inspired development stack.
 
 # Get Involved
-[Visit our backlog](https://www.pivotaltracker.com/n/projects/1074796) to see how you can help!
-[Join our NYC Meetup](http://www.meetup.com/The-New-York-Immutable-Hack/) and drop in to hack the stack.
+* [Visit our backlog](https://www.pivotaltracker.com/n/projects/1074796) to see how you can help!
+* [Join our NYC Meetup](http://www.meetup.com/The-New-York-Immutable-Hack/) and drop in to hack the stack.
 
 # Inspiration
 
