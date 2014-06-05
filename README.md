@@ -22,17 +22,19 @@ git clone https://github.com/KitchenTableCoders/immutable-stack.git
 ```
 
 ## Install the Immute Template for Leiningen
-
-Git checkout the [immute template for leiningen](https://github.com/immutable-hack/immute-template)
-
 This template lets you build a basic app - [currently incomplete](https://www.pivotaltracker.com/story/show/72307658)
+
+Do the following to install the app: 
 
 ```bash
 git clone https://github.com/immutable-hack/immute-template
 cd immute-template
 lein install
 cd ..
+```
 
+Create a new app with the template:
+```bash
 lein new immute my-first-immute-app
 ```
 
