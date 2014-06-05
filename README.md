@@ -11,7 +11,6 @@ An Om and Datomic inspired development stack.
 ## Prerequisites
 
 * Install [Leiningen](http://leiningen.org/#install)
-* Install the [Leiningen cljs-build plugin](https://github.com/emezeske/lein-cljsbuild#installation)
 
 ## Get the Immutable Stack
 
