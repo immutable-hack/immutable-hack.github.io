@@ -6,6 +6,10 @@ An Om and Datomic inspired development stack.
 * [Visit our backlog](https://www.pivotaltracker.com/n/projects/1074796) to see how you can help!
 * [Join our NYC Meetup](http://www.meetup.com/The-New-York-Immutable-Hack/) and drop in to hack the stack.
 
+# Get Started
+
+* Git checkout the [immutable-stack](http://kitchentablecoders.com/class/2014/04/12/the-immutable-stack/) so you have the demonstration app from David and Kovas [see Inspiration](#Inspiration)
+
 # Inspiration
 
 This project draws inspiration from:
