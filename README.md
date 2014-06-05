@@ -8,10 +8,32 @@ An Om and Datomic inspired development stack.
 
 # Get Started
 
-* Git checkout the [immutable-stack](https://github.com/KitchenTableCoders/immutable-stack.git) so you have the demonstration app from David and Kovas ([see Inspiration](#Inspiration))
+## Prerequisites
+
+* Install [Leiningen](http://leiningen.org/#install)
+* Install the [Leiningen cljs-build plugin](https://github.com/emezeske/lein-cljsbuild#installation)
+
+## Get the Immutable Stack
+
+Git checkout the [immutable-stack](https://github.com/KitchenTableCoders/immutable-stack.git) so you have the demonstration app from David and Kovas ([see Inspiration](#Inspiration))
 
 ```bash
 git clone https://github.com/KitchenTableCoders/immutable-stack.git
+```
+
+## Install the Immute Template for Leiningen
+
+Git checkout the [immute template for leiningen](https://github.com/immutable-hack/immute-template)
+
+This template lets you build a basic app - [currently incomplete](https://www.pivotaltracker.com/story/show/72307658)
+
+```bash
+git clone https://github.com/immutable-hack/immute-template
+cd immute-template
+lein install
+cd ..
+
+lein new immute my-first-immute-app
 ```
 
 # Inspiration
