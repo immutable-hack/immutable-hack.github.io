@@ -8,7 +8,11 @@ An Om and Datomic inspired development stack.
 
 # Get Started
 
-* Git checkout the [immutable-stack](http://kitchentablecoders.com/class/2014/04/12/the-immutable-stack/) so you have the demonstration app from David and Kovas [see Inspiration](#Inspiration)
+* Git checkout the [immutable-stack](https://github.com/KitchenTableCoders/immutable-stack.git) so you have the demonstration app from David and Kovas ([see Inspiration](#Inspiration))
+
+```bash
+git clone https://github.com/KitchenTableCoders/immutable-stack.git
+```
 
 # Inspiration
 
