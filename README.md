@@ -34,7 +34,7 @@ cd ..
 
 Create a new app with the template:
 ```bash
-lein new immute my-first-immute-app
+lein new immute my-first-immute-app --snapshot
 ```
 
 # Inspiration
